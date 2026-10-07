@@ -1,0 +1,31 @@
+
+=== Check: resolve kuda ===
+{"id":"5eb5c457-7dae-493b-b509-6a6ed5a46d21","name":"Kuda","slug":"kuda","category":"Finan...
+
+=== Check: kuda flows ===
+20 flows: add-beneficiary(31), betting-gaming(14), bill-payment(16), buy-gift-card(19), deactivating-account(5), fund-wallet(18), help-and-support(20), kyc(57), legal-privacy(15), login(3), news(9), onboarding(30), purchase-airtime(8), purchase-data(9), scheduling(21), statement-of-account(8), transaction-history(4), transfer-to-bank(34), upgrade-account(29), virtual-card(23)
+
+=== Check: kuda kyc screens ===
+[{"id":"53f05cbe-585a-4720-ac1d-446cc9395f70","appId":"5eb5c457-7dae-493b-b509-6a6ed5a46d2...
+video: none
+
+=== Check: kuda signup screen type ===
+[{"id":"bd4aad17-2efc-4af5-913a-d4b85298f993","appId":"5eb5c457-7dae-493b-b509-6a6ed5a46d2...
+
+=== Check: kuda app store ===
+[{"id":"c89cf1e2-250c-430d-81c5-8a5197500e17","appId":"5eb5c457-7dae-493b-b509-6a6ed5a46d2...
+
+=== Check: Nigerian finance apps ===
+onboard, renmoney, zap, misan, lemfi, expedier, raenest, juicyway, gowagr, carbon
+
+=== Check: search flow 'onboarding' ===
+[{"id":"ab94216e-0ab3-4e17-911d-261cb3a700e9","appId":"2375e689-5940-4aed-8aeb-3bb67dc4658...
+
+=== Check: search screen_type 'empty state' ===
+[]
+
+=== Check: search text 'bvn' ===
+[{"id":"05175923-7802-4f84-a524-6849ebaa2a2d","appId":"cb3a0059-63de-45c2-ad86-4d7ed1c5290...
+
+=== Check: similar screens ===
+[{"id":"03430143-f9c9-417b-b526-54faf78adc75","app":"Kuda","imageUrl":"https://images.uila...
